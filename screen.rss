@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Warwick Astro RSS</title>
+ <description>This is an example of an RSS feed</description>
+ <link></link>
+ <ttl>1800</ttl>
+
+ <item>
+  <title>News item</title>
+  <description>Here is some text containing an interesting description.</description>
+  <link></link>
+ </item>
+
+</channel>
+</rss>
